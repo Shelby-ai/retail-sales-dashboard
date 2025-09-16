@@ -35,7 +35,8 @@ Using **Python** for data cleaning and exploratory data analysis (EDA) and **Pow
 - **Sales Seasonality:** Revealed clear monthly and quarterly trends  
 - **Profitability Drivers:** Highlighted high- and low-margin categories  
 - **Actionable Filters:** Empowered decision-makers to drill down into data by product and time range
-  <img width="1165" height="653" alt="image" src="https://github.com/user-attachments/assets/ef6b81ec-894d-4bb5-b858-dad6931cec7d" />
+ <img width="1164" height="656" alt="Screenshot 2025-09-16 210914" src="https://github.com/user-attachments/assets/28dbc3e3-4dc7-4ece-9527-c260121d7a40" />
+
 
 ---
 
